@@ -18,7 +18,7 @@
 
 
 ### STREAK STATS
-![GitHub Streak](https://streak-stats.demolab.com?user=fared08&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=fared08&theme=github-dark&border_radius=8)
 
 
 
