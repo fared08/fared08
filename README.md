@@ -18,4 +18,8 @@
 
 
 ### STREAK STATS
-[![GitHub Streak](https://streak-stats.demolab.com?user=faridhaiqal&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=faridhaiqal&theme=dark)](https://git.io/streak-stats)
+
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
