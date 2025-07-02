@@ -16,11 +16,8 @@
 ### 📈 GitHub Stats
 ![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=fared08&show_icons=true&theme=github_dark)
 
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fared08&theme=github-dark&hide_border=false)
-
+### top Language
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=fared08&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
