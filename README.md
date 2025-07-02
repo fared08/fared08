@@ -14,11 +14,12 @@
 ---
 
 ### 📈 GitHub Stats
-![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridhaiqal&show_icons=true&theme=github_dark)
+![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=fared08&show_icons=true&theme=github_dark)
 
 
 ### STREAK STATS
-![GitHub Streak](https://streak-stats.demolab.com?user=faridhaiqal&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=fared08&theme=dark)
+
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
